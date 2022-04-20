@@ -11,4 +11,5 @@ Many students died and others were injured and most schools were permanently clo
 This projest uses sentiment analysis to show how bad the impact was on the students and possible ways of solving it
 # POSSIBLE SOLUTIONS
 Interschool quidance and counselling
+
 AI chatbot therapy app
